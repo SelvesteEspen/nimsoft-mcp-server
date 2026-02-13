@@ -148,9 +148,10 @@ List all robots in the UIM infrastructure.
 
 ### Setup Steps
 
-1. **Clone or navigate to this repository:**
+1. **Clone the repository repository:**
    ```bash
-   cd d:\Python\nimsoft-mcp-server
+   git clone https://github.com/SelvesteEspen/nimsoft-mcp-server.git
+   cd nimsoft-mcp-server
    ```
 
 2. **Install dependencies:**
